@@ -1,0 +1,16 @@
+
+
+canvas {
+	width: fill;
+	height: fill;
+	background: black;
+}
+
+body, html {
+ height: 100%;
+ margin: 0;
+}
+
+body {
+	overflow-x: hidden;
+}
